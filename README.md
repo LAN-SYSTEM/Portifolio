@@ -1,2 +1,2 @@
-# Portifolio
- Para o Linkedin
+# Portifólio
+ Wayslan Miranda - Aprediz em Teste de Software
